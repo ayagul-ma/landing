@@ -1,0 +1,204 @@
+nav{
+  background-color: #101010;;  
+  color: white;
+  width: 100%;
+  height: 58px;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 80px;
+    text-align: center;
+}
+.picture{
+   display: flex;
+   justify-content: center;
+   text-align: center;
+   gap: 66px;
+}
+.section-2{
+    display: flex;
+justify-content: space-around;
+}
+.title h2{
+    font-size: 32px;
+    color:#1AC74A;
+}
+.title p{
+    font-size: 48px;
+    width: 358px;
+    height: 118px;
+}
+.card{
+    display: flex;
+    
+}
+.card-1{
+    background-color: black;
+    color: white;
+    display: flex;
+    width: 400px;
+    padding: 20px;
+    justify-content: space-between;
+}
+h1.day-1{
+    font-size: 18px;
+    color: white;
+    width: 49px;
+    height: 22px;
+}
+.city-name1{
+    display: flex;
+    color: #D9D9D9;
+    font-size: 16px;
+    width: 159px;
+    height: 20px;
+}
+.location-1{
+    font-size: 12px;
+    width: 63px;
+    height: 15px;
+}
+.card-2{
+    background-color: white;
+    display: flex;
+    width: 400px;
+    height: 85px;
+    padding: 20px;
+    justify-content: space-between;
+}
+h1.day-2{
+    font-size: 18px;
+    color: white;
+    width: 49px;
+    height: 22px;
+}
+.city-name2{
+    display: flex;
+    color: #D9D9D9;
+    font-size: 16px;
+    width: 159px;
+    height: 20px;
+}
+.location-2{
+    font-size: 12px;
+    width: 63px;
+    height: 15px;
+}
+.card-3{
+    background-color: white;
+    display: flex;
+    width: 400px;
+    height: 85px;
+    padding: 20px;
+    justify-content: space-between;
+}
+h1.day-3{
+    font-size: 18px;
+    color: white;
+    width: 49px;
+    height: 22px;
+}
+.city-name3{
+    display: flex;
+    color: #D9D9D9;
+    font-size: 16px;
+    width: 159px;
+    height: 20px;
+}
+.location-3{
+    font-size: 12px;
+    width: 63px;
+    height: 15px;
+}
+.card-4{
+    background-color: white;
+    display: flex;
+    width: 400px;
+    height: 85px;
+    padding: 20px;
+    justify-content: space-between;
+}
+h1.day-4{
+    font-size: 18px;
+    color: white;
+    width: 49px;
+    height: 22px;
+}
+.city-name4{
+    display: flex;
+    color: #D9D9D9;
+    font-size: 16px;
+    width: 159px;
+    height: 20px;
+}
+.location-4{
+    font-size: 12px;
+    width: 63px;
+    height: 15px;
+}
+.card-5{
+    background-color: white;
+    display: flex;
+    width: 400px;
+    height: 85px;
+    padding: 20px;
+    justify-content: space-between;
+}
+h1.day-5{
+    font-size: 18px;
+    color: white;
+    width: 49px;
+    height: 22px;
+}
+.city-name5{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #D9D9D9;
+    font-size: 16px;
+    width: 159px;
+    height: 20px;
+}
+.location-5{
+    font-size: 12px;
+    width: 63px;
+    height: 15px;
+}
+.card-6{
+    background-color: white;
+    display: flex;
+    width: 400px;
+    height: 85px;
+    padding: 20px;
+    justify-content: space-between;
+}
+h1.day-6{
+    font-size: 18px;
+    color: white;
+    width: 49px;
+    height: 22px;
+}
+.city-name6{
+    display: flex;
+    color: #D9D9D9;
+    font-size: 16px;
+    width: 159px;
+    height: 20px;
+}
+.location-6{
+    font-size: 12px;
+    width: 63px;
+    height: 15px;
+}
+.image{
+    width: 720px;
+    height: 1024px;
+}
